@@ -10,7 +10,7 @@ Original file is located at
 from google.colab import drive 
 drive.mount('/content/drive')
 
-# Importing pandas library for data manipulation and analysis
+# Importing pandas library for data  manipulation and analysis
 import pandas as pndas
 
 # Importing numpy for numerical operations and array handling
